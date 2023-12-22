@@ -1,0 +1,8 @@
+computer computer 4
+mouse mouse 52
+LAPTOP mouse 123
+data computer 2
+RedHat laptop 8
+laptop LAPTOP 65
+debian RedHat 12
+laptop data 0
